@@ -41,3 +41,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/AjiBintang/AjiBintang/output/snake.svg" alt="Snake animation" />
+
+###
